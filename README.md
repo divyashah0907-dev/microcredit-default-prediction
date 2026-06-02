@@ -9,7 +9,7 @@ Microfinance-Loan-Repayment-Prediction-System/
 │
 ├── README.md                           # Project documentation
 ├── microfinance_data_description.xlsx   # Description of dataset attributes and features
-├── microcrofinance_loan_repayment_prediction.ipynb # Main notebook containing data analysis and model development
+├── microfinance_loan_repayment_prediction.ipynb # Main notebook containing data analysis and model development
 └── microfinance_sample_dataset.xlsx     # Sample dataset used for training and testing
 ```
 
