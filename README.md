@@ -40,4 +40,4 @@ The notebook demonstrates the complete machine learning pipeline for microcredit
 
 ## Author
 
-[Your Name]
+Divya Shah
