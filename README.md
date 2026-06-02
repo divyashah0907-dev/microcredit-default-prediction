@@ -94,7 +94,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/microcredit_default_prediction.git
-cd microcredit_default_prediction
+cd microfinance_loan_repayment_prediction
 ```
 
 Install dependencies:
@@ -122,7 +122,7 @@ jupyter notebook
 Open:
 
 ```text
-microcredit_default_prediction.ipynb
+microfinance_loan_repayment_prediction.ipynb
 ```
 
 Run all cells to reproduce the complete analysis and prediction workflow.
@@ -178,4 +178,4 @@ Contributions are welcome.
 
 **Divya Shah**
 
-Machine Learning Project – Microcredit Default Prediction using Python and Scikit-Learn.
+Machine Learning Project – Microfinance Loan Repayment Prediction System using Python and Scikit-Learn.
