@@ -1,16 +1,16 @@
-# Microcredit Default Prediction
+# Microfinance-Loan-Repayment-Prediction-System
 
 A Machine Learning project focused on predicting whether a microcredit borrower is likely to default on a loan. The project uses borrower and loan-related features to build predictive models that help financial institutions assess credit risk and make informed lending decisions.
 
 ## 📂 Project Structure
 
 ```
-microcredit_default_prediction/
+Microfinance-Loan-Repayment-Prediction-System/
 │
 ├── README.md                           # Project documentation
-├── microcredit_data_description.xlsx   # Description of dataset attributes and features
-├── microcredit_default_prediction.ipynb # Main notebook containing data analysis and model development
-└── microcredit_sample_dataset.xlsx     # Sample dataset used for training and testing
+├── microfinance_data_description.xlsx   # Description of dataset attributes and features
+├── microcrofinance_loan_repayment_prediction.ipynb # Main notebook containing data analysis and model development
+└── microfinance_sample_dataset.xlsx     # Sample dataset used for training and testing
 ```
 
 ---
@@ -31,9 +31,9 @@ The dataset contains borrower and loan-related information used to predict loan 
 
 | File | Description |
 |--------|-------------|
-| `microcredit_sample_dataset.xlsx` | Sample dataset containing borrower and loan information |
-| `microcredit_data_description.xlsx` | Detailed explanation of all dataset features and variables |
-| `microcredit_default_prediction.ipynb` | Jupyter Notebook containing data preprocessing, model training, and evaluation |
+| `microfinance_sample_dataset.xlsx` | Sample dataset containing borrower and loan information |
+| `microfinance_data_description.xlsx` | Detailed explanation of all dataset features and variables |
+| `microfinance_default_prediction.ipynb` | Jupyter Notebook containing data preprocessing, model training, and evaluation |
 
 ---
 
